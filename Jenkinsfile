@@ -7,7 +7,7 @@ pipeline {
             steps {
                 git branch: 'master',
                     url: 'https://github.com/samantha58-bit/my-first-ci-cd-app.git',
-                    credentialsId: '396a7278-4a2f-403b-8400-998d12976839'
+                    credentialsId: '8d9e852f-77cd-4a80-b643-cdbb7f3f7d3f'
             }
         }
 
